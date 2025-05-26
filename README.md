@@ -14,9 +14,9 @@ A simple Python-based tool to track your stock investments using a manually defi
 
 ## 📂 Project Structure
 
-─ main.py   # Main script to run the tracker
-─ stock_data.py   # Contains stock prices in a dictionary
-─README.md   # Project documentation
+- main.py   # Main script to run the tracker
+- stock_data.py   # Contains stock prices in a dictionary
+- README.md   # Project documentation
 
 
 ---
